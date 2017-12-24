@@ -1,0 +1,11 @@
+/*FOOTER*/
+#footer-wp{ 
+    margin-top: 50px;
+    background: #333;
+}
+#copyright{
+    color: #fff;
+    font-size: 13px;
+    text-align: center;
+    padding: 20px 0px;
+}

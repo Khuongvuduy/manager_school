@@ -1,0 +1,9 @@
+/*HEADER*/
+#header-wp{ background: #333;}
+#header-wp .title{
+    color: #fff;
+    text-align: center;
+    padding: 25px 0px;
+    font-size: 24px;
+    text-transform: uppercase;
+}
